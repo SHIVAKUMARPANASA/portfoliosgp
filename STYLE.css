@@ -688,15 +688,14 @@ h3{
     transform: translateY(-2px); /* Slight lift on hover */
 }   
 
-@media (max-width: 600px) {
+@media (max-width: 767px) {
     .skills-list {
         justify-content: center; /* Re-center on smaller screens */
     }
     .skills-block{
         justify-content: center;
     }
-    .img_py{
-        justify-content:center;
+    
 }
 .img_py{
       margin-left: 30%;
