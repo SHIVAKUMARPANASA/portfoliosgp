@@ -29,14 +29,7 @@ body{
 .home{
     color: #222020;
 }
- @media (max-width:600px){
-     .body{
-         justify-content:center;
-     }
-     .container{
-         justify-content:center;
-     }
- }
+ 
      
  .logo{
      color:#fff;
@@ -72,7 +65,7 @@ nav ul a:hover{
     display: flex;
     margin-left:-5%;
 }
-     @media(max-width:600px){
+     
 .container .left{
 
     color: #fff;
@@ -108,7 +101,7 @@ nav ul a:hover{
     align-items: center;
 
 }
-         @media (max-width:600px){
+         
              
 .about .title {
     font-style: italic;
@@ -135,7 +128,7 @@ nav ul a:hover{
     color: #fff;
     font-size: larger;
 }
-    @media (max-width:600px){
+
         
 .panasa{
     color:#fff;
@@ -327,7 +320,7 @@ button{
     margin-top: 50px;
 
 }
-            @media (max-width:600px){
+            
   
 .services-list div{
     background-color: #262626;
@@ -372,7 +365,7 @@ button{
     padding: 50PX 0;
     margin-right: 20%;
 }
-                @media (max-width:600px);
+            
 .work-list{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -531,7 +524,7 @@ form button{
     border-radius: 6px;
     box-shadow: 0 0 10px #bb2626;
 }
-                    @media (max-width:600px){
+                
                         
 form button:hover{
     background-color: aqua;
