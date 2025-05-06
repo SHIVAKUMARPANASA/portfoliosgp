@@ -674,7 +674,7 @@ h3{
     transform: translateY(-2px); /* Slight lift on hover */
 }   
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
     .skills-list {
         justify-content: center; /* Re-center on smaller screens */
     }
@@ -689,3 +689,4 @@ h3{
     
 
     }
+  
