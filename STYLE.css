@@ -33,6 +33,10 @@ body{
      .body{
          justify-content:center;
      }
+     .container{
+         justify-content:center;
+     }
+ }
      
  .logo{
      color:#fff;
