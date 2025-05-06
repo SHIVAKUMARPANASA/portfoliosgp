@@ -7,7 +7,6 @@
 
 }
 body{
-    @media(max-width:600px) {
 
     background-color: var(--bg-color);
     /* z-index: -1; */
@@ -713,5 +712,5 @@ h3{
     
 
     }
-}
+
   
