@@ -30,6 +30,10 @@ body{
     color: #222020;
 }
  @media (max-width:600px){
+     .body{
+         justify-content:center;
+     }
+     
  .logo{
      color:#fff;
      font-weight: 900;
@@ -694,7 +698,7 @@ h3{
     .skills-block{
         justify-content: center;
     }
-    img_py{
+    .img_py{
         justify-content:center;
 }
 .img_py{
